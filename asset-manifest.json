@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/Edu-App/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/Edu-App/static/js/main.26948cee.chunk.js",
-    "main.js.map": "/Edu-App/static/js/main.26948cee.chunk.js.map",
-    "runtime~main.js": "/Edu-App/static/js/runtime~main.04e632d4.js",
-    "runtime~main.js.map": "/Edu-App/static/js/runtime~main.04e632d4.js.map",
-    "static/js/2.bbc244fd.chunk.js": "/Edu-App/static/js/2.bbc244fd.chunk.js",
-    "static/js/2.bbc244fd.chunk.js.map": "/Edu-App/static/js/2.bbc244fd.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/Edu-App/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/Edu-App/static/js/3.a29efab2.chunk.js.map",
+    "main.css": "/Edu-App/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Edu-App/static/js/main.b222a353.chunk.js",
+    "main.js.map": "/Edu-App/static/js/main.b222a353.chunk.js.map",
+    "runtime~main.js": "/Edu-App/static/js/runtime~main.d999386c.js",
+    "runtime~main.js.map": "/Edu-App/static/js/runtime~main.d999386c.js.map",
+    "static/js/2.38089871.chunk.js": "/Edu-App/static/js/2.38089871.chunk.js",
+    "static/js/2.38089871.chunk.js.map": "/Edu-App/static/js/2.38089871.chunk.js.map",
+    "static/js/3.31c88699.chunk.js": "/Edu-App/static/js/3.31c88699.chunk.js",
+    "static/js/3.31c88699.chunk.js.map": "/Edu-App/static/js/3.31c88699.chunk.js.map",
     "index.html": "/Edu-App/index.html",
-    "precache-manifest.174e207a31dd6c70f448fa735442c69f.js": "/Edu-App/precache-manifest.174e207a31dd6c70f448fa735442c69f.js",
+    "precache-manifest.4631047a27a272577742be03c218c257.js": "/Edu-App/precache-manifest.4631047a27a272577742be03c218c257.js",
     "service-worker.js": "/Edu-App/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/Edu-App/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/logo.svg": "/Edu-App/static/media/logo.06e73328.svg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/Edu-App/static/css/main.5ecd60fb.chunk.css.map"
   }
 }
